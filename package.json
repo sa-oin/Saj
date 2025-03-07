@@ -16,6 +16,9 @@
   "bugs": {
     "url": "https://github.com/sa-oin/Saj/issues"
   },
+  "engines": {
+  "node": ">=16.0.0"
+},
   "homepage": "https://github.com/sa-oin/Saj#readme",
   "devDependencies": {
     "gulp": "^5.0.0",
